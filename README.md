@@ -9,6 +9,14 @@ With Lobby, you get all the essential features of a visitor management applicati
 
 Built with Power Apps and leveraging other Microsoft tools like Power Automate, Lists, Dataverse, and Teams, Lobby offers a streamlined experience that embodies the quality of another outstanding Microsoft product. Deliver a seamless visitor experience, boost security, and reduce risks with one of the world's best free visitor management systems.
 
+#### *"You have full visibility of everyone who has been on your organisation's premises."*
+
+#### *"A digital record is securely stored for emergencies and audits."*
+
+#### *"Streamline your visitor check-in process and allow your staff to focus on other tasks."*
+
+#### *"It's free, better than premium competitors, and available on both Android and iPad."*
+
 ### Creators
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
