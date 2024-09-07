@@ -9,6 +9,28 @@ With Lobby, you get all the essential features of a visitor management applicati
 
 Built with Power Apps and leveraging other Microsoft tools like Power Automate, Lists, Dataverse, and Teams, Lobby offers a streamlined experience that embodies the quality of another outstanding Microsoft product. Deliver a seamless visitor experience, boost security, and reduce risks with one of the world's best free visitor management systems.
 
+### Creators
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/MattDavisImage.png" alt="Matthew James Davis" style="height:40px;"/>
+   Matthew James Davis
+</div>
+<p></p>
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/DavidFiskImage.png" alt="David Fisk" style="height:40px;"/>
+    David Fisk
+</div>
+
+<p></p>
+
+Lobby is brought to you by No More Bad Mondays, who are here to get Microsoft working for you. You can find out more about us and our services (including Lobby support services) at www.nomorebadmondays.com.
+
+
+
+
+
+
+
 ![Lobby Overview](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyHomePage.png)
 
 ## Features
