@@ -37,10 +37,11 @@ Lobby is brought to you by No More Bad Mondays, who are here to get Microsoft wo
 
 #### 🎨 Branding
 Lobby can be completely customized to match your organization's branding, from colors to images and beyond—without any of our branding! It’s designed to be your company's own. As it’s a Power App, if someone in your organization or a Power App specialist supports your builds, they can extend Lobby with unique features anytime. Alternatively, contact us for full support.
+![Lobby Branding](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyBranding.png)
 
 #### 🔍 User Search
 Within your Microsoft ecosystem, any user is discoverable for visitors to select at check-in. You can customize this to exclude certain staff members if needed. Lobby is fully integrated with your Office 365 user data, allowing you to display staff names, photos, roles, and more.
-![Lobby Staff Search](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyStaffSearch.png)
+![Lobby Staff Search](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyStaffSelect.png)
 
 #### 🌐 Translations
 We’ve laid the groundwork for you to add Microsoft Translator if desired. This means visitors can access Lobby in any language supported by Microsoft Translator—almost every language!
