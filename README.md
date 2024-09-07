@@ -58,7 +58,5 @@ Lobby is built using Microsoft Lists as the database due to its accessibility an
 Leveraging the power of Power Automate, Teams, and Adaptive Cards, Lobby sends real-time notifications to relevant staff members via Microsoft Teams as soon as someone checks in.
 ![Lobby Teams Notifcation](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyTeamsNotification.png)
 
-
 #### 🏢 Multiple Sites
 Deploy Lobby across multiple campuses. If you have a tablet at reception with internet access, you can use Lobby—it's that simple!
-
