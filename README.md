@@ -25,12 +25,6 @@ Built with Power Apps and leveraging other Microsoft tools like Power Automate, 
 
 Lobby is brought to you by No More Bad Mondays, who are here to get Microsoft working for you. You can find out more about us and our services (including Lobby support services) at www.nomorebadmondays.com.
 
-
-
-
-
-
-
 ![Lobby Overview](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyHomePage.png)
 
 ## Features
@@ -52,7 +46,8 @@ Pre-register guests and send essential information prior to their visit using Mi
 
 
 #### 💾 Database
-Lobby is built using Microsoft Lists as the database due to its accessibility and functionality. However, you have the option to upgrade to Dataverse if preferred. Out of the box, you can manage visitor data via Microsoft Teams, where selected members of your organization (such as reception teams) will have full access.
+Lobby is built using Microsoft Lists as the database due to its accessibility and functionality. However, you have the option to upgrade to Dataverse if preferred. Out of the box, you can manage visitor data via Microsoft Teams which can fully intergrate with Microsoft Lists, where selected members of your organization (such as reception teams) will have full access.
+![Lobby Visitor Database](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyVisitorDatabase.png)
 
 #### 🔔 Notifications
 Leveraging the power of Power Automate, Teams, and Adaptive Cards, Lobby sends real-time notifications to relevant staff members via Microsoft Teams as soon as someone checks in.
