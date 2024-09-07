@@ -1,3 +1,6 @@
+
+<img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/NMBMLogo.png" alt="NMBM Logo" style="height:40px; vertical-align:middle;"/> 
+
 ## Overview
 
 ### Welcome to Lobby
