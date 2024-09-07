@@ -48,6 +48,8 @@ We’ve laid the groundwork for you to add Microsoft Translator if desired. This
 
 #### 📝 Pre-registration
 Pre-register guests and send essential information prior to their visit using Microsoft Forms. This ensures you gather the information you need right away.
+![Lobby Visitor Registration](https://github.com/NoMoreBadMondays/lobby/blob/main/documents/LobbyVisitorRegistration.png)
+
 
 #### 💾 Database
 Lobby is built using Microsoft Lists as the database due to its accessibility and functionality. However, you have the option to upgrade to Dataverse if preferred. Out of the box, you can manage visitor data via Microsoft Teams, where selected members of your organization (such as reception teams) will have full access.
