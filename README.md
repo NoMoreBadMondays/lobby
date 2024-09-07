@@ -12,12 +12,12 @@ Built with Power Apps and leveraging other Microsoft tools like Power Automate, 
 ### Creators
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/MattDavisImage.png" alt="Matthew James Davis" style="height:40px;"/>
+    <img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/MattImage.png" alt="Matthew James Davis" style="height:40px;"/>
    Matthew James Davis
 </div>
 <p></p>
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/DavidFiskImage.png" alt="David Fisk" style="height:40px;"/>
+    <img src="https://github.com/NoMoreBadMondays/lobby/blob/main/documents/DavidImage.png" alt="David Fisk" style="height:40px;"/>
     David Fisk
 </div>
 
