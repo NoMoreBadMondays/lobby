@@ -63,3 +63,12 @@ Leveraging the power of Power Automate, Teams, and Adaptive Cards, Lobby sends r
 
 #### 🏢 Multiple Sites
 Deploy Lobby across multiple campuses. If you have a tablet at reception with internet access, you can use Lobby—it's that simple!
+
+### Instalation 
+Installing Lobby is a breeze, and true to No More Bad Mondays style, we've added a touch of magic to make the process even faster. With easy-to-follow step-by-step guides and a few automations to speed things up, you'll have support at every stage.
+
+Registration and feedback forms are just a click away from being available in your environment. After that, you only need to spend a few moments updating the background, logo, and color scheme to match your organisation's branding.
+
+The Microsoft List database includes multiple columns to ensure you have all the data you need. Creating this database could have been time-consuming, but we've included an automation that creates it for you with just one click, including the relevant columns and formatting. From there, a few simple manual steps will complete the setup.
+
+The application itself is a Microsoft Power App that can be easily imported into your environment. With our handy guides, you'll only have a few manual setup steps left before you're ready to go. And don't forget, you can customize Lobby to align with your company's branding too!
